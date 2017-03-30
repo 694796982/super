@@ -21,6 +21,7 @@
     int b=20;
     int s=a+b;
     NSLog(@"%d",s);
+    int c=100;
 }
 
 - (void)didReceiveMemoryWarning {
